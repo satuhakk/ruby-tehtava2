@@ -1,4 +1,4 @@
 language: ruby
 rvm:
-  - 2.0.0-p451
+  - 2.3.0p0
 script: bundle exec rspec testi_spec.rb
